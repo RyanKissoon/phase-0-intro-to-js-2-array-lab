@@ -5,16 +5,16 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-10-25T08:21:38.787Z",
-    "end": "2021-10-25T08:21:39.101Z",
-    "duration": 314
+    "start": "2021-11-08T03:22:56.572Z",
+    "end": "2021-11-08T03:22:56.905Z",
+    "duration": 333
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -22,7 +22,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -31,7 +31,7 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -40,7 +40,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -49,7 +49,7 @@
     {
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -58,7 +58,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -67,8 +67,8 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -76,7 +76,7 @@
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -85,8 +85,8 @@
     {
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -98,8 +98,8 @@
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -107,7 +107,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -116,7 +116,7 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -125,7 +125,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -134,7 +134,7 @@
     {
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -143,7 +143,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -152,8 +152,8 @@
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -161,7 +161,7 @@
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -170,8 +170,8 @@
     {
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
-      "file": "/Users/ryankissoon/Development/code/Prework/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "file": "/Users/ryankissoon/Development/code/Mod1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
